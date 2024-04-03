@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://ipa.ipasign.cc:2052/download/d208c4a5-e374-f3b7-4ad3-9cf3afe5fd14/20240319141737109</string>
+                    <string>https://vvv.eco/r/zJFxLWnE/</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                 <string>com.crucifixed</string>
                 <key>bundle-version</key>
-                <string>2.615.606</string>
+                <string>2.618.546</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
