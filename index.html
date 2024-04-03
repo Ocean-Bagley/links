@@ -6,12 +6,25 @@
     <title>Ocean-Bagley Certificate Links</title>
     <style>
         body {
-            background-color: #800000;
+            background-color: #000;
             color: white;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
             text-align: center;
+            animation: bg-animation 5s infinite alternate;
+        }
+
+        @keyframes bg-animation {
+            0% {
+                background-color: #000;
+            }
+            50% {
+                background-color: #800000; 
+            }
+            100% {
+                background-color: #000;
+            }
         }
 
         .container {
@@ -42,6 +55,20 @@
 
         .links a:hover {
             color: #FFD700;
+        }
+
+        .get-button {
+            background-color: transparent;
+            border: 1px solid white;
+            color: white;
+            padding: 10px 20px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .get-button:hover {
+            background-color: rgba(255, 255, 255, 0.2);
         }
     </style>
 </head>
