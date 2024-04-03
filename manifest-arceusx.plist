@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://ipa.ipasign.cc:2052/download/d208c4a5-e374-f3b7-4ad3-9cf3afe5fd14/20240319141737109</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.crucifixed</string>
+                <key>bundle-version</key>
+                <string>2.615.606</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Arceus X</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
