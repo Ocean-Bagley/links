@@ -17,7 +17,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.crucifixed</string>
+                <string>com.spdm.ArceusX</string>
                 <key>bundle-version</key>
                 <string>2.618.546</string>
                 <key>kind</key>
